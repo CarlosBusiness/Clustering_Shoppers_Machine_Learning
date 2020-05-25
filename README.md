@@ -11,6 +11,7 @@ This repository will have many examples of clustering examples that I have perfo
 * Title - Clustering Analysis of Mall Shoppers
 * Goal - To find target shopper groups from our large mall shopper dataset
 * Variables - Gender, Age, Annual Income, Spending Score
+* Technique - KMeans Clustering
 * Technologies – Python (Jupyter Notebook)
 
 Please let me know if you have any questions and connect with me on the following platforms:
