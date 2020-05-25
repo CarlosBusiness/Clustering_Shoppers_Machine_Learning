@@ -16,11 +16,9 @@ This repository will have many examples of clustering examples that I have perfo
 Please let me know if you have any questions and connect with me on the following platforms:
 
 
-Contact Information:
-
-* github.com/CarlosBusiness
+* Github: www.github.com/CarlosBusiness
 * Linkedin: www.linkedin.com/in/CarlosJonesData
-* Twitter: Los The Scientist
+* Twitter: www.twitter.com/winners_analyze
 * Email: carlosjones.business@gmail.com
 
 
